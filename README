@@ -15,8 +15,8 @@ Enter	    "Hard-drop" tetromino (like pressing "Down" continuously)
 p	    Pause
 control+C   Quits the game immediately and without asking anything (the current game is lost, but previous games are recorded in the high scores file)
 
-==Normal/Harder==
-The game currently allows choosing between two block choosers. The second (harder) one does not show you the "next block" preview, thus achieving a higher level of bastardness.
+==Normal/Evil/Harder==
+The game currently allows choosing between two block choosers. The first one (normal) uses a random block chooser similar to Tetris(R) and the second one (evil) uses the bastard block chooser. The third (harder) one does not show you the "next block" preview, thus achieving a higher level of bastardness.
 
 ==Installation==
 See the INSTALL file in this same directory.

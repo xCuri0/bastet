@@ -35,7 +35,7 @@ int main(int argc, char **argv){
   Ui ui;
   while(1){
     
-    int choice=ui.MenuDialog(list_of("Play! (normal version)")("Play! (bastard version)")("Play! (harder version)")("View highscores")("Customize keys")("Quit"));
+    int choice=ui.MenuDialog(list_of("Play! (normal version)")("Play! (evil version)")("Play! (harder version)")("View highscores")("Customize keys")("Quit"));
     switch(choice){
     case 0:{
       //ui.ChooseLevel();
